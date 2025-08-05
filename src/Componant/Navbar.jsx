@@ -1,4 +1,4 @@
-import Shipralogo from '../assets/ShipraLogo.svg';
+import Shipralogo from '../assets/Shipralogo.svg';
 function Navbar() {
   return (
     <div className="w-full flex justify-center items-center absolute z-40">
